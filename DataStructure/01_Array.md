@@ -8,7 +8,7 @@
 * [5. 归并两个有序数组](#5-归并两个有序数组)
 * [6. 判断链表是否存在环](#6-判断链表是否存在环)
 * [7. 最长子序列](#7-最长子序列)
-* [1. 盛最多水的容器](# 1. 盛最多水的容器container-with-most-water)
+* [1. 盛最多水的容器](# 1-盛最多水的容器-container-with-most-water)
 *  1. https://leetcode-cn.com/problems/container-with-most-water/
 2. https://leetcode-cn.com/problems/move-zeroes/
 3. https://leetcode-cn.com/problems/climbing-stairs/
@@ -19,7 +19,7 @@
 
 双指针主要用于遍历数组，两个指针指向不同的元素，从而协同完成任务。
 
-# 1. 盛最多水的容器container-with-most-water
+# 1. 盛最多水的容器 container-with-most-water
 
 双指针主要用于遍历数组，两个指针指向不同的元素，从而协同完成任务。
 
@@ -62,3 +62,4 @@ public int[] twoSum(int[] numbers, int target) {
     }
     return null;
 }
+```
